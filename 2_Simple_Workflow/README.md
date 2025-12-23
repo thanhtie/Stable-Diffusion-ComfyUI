@@ -1,6 +1,7 @@
 2_Simple_Workflow
 
-<img width="1509" height="607" alt="image" src="https://github.com/user-attachments/assets/7ed0db62-cd68-4ed2-91f9-888f98c46571" />
+<img width="1432" height="1057" alt="image" src="https://github.com/user-attachments/assets/ba971b11-e860-4d0b-b450-a48250add5cd" />
+
 
 ## Must-have nodes (Stable Diffusion / ComfyUI)
 
