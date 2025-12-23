@@ -1,4 +1,4 @@
-download schell model from: https://huggingface.co/black-forest-labs/FLUX.1-schnell
+download schnell model from: https://huggingface.co/black-forest-labs/FLUX.1-schnell
 
 model: https://huggingface.co/Comfy-Org/flux1-schnell/tree/main <br>
 CLIP: https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main <br>
